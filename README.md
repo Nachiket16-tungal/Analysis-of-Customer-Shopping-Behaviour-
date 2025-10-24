@@ -1,7 +1,7 @@
 # Analysis-of-Customer-Shopping-Behaviour-
 This project analyzes customer shopping behavior using transactional data from 3,900 purchases across various product categories. The goal is to uncover insights into spending patterns, customer segments, product preferences, and subscription behavior to guide strategic business decisions.softwares used are jupyter notebook,power bi,postgresql.
 Overview
-This project involves a comprehensive data analytics workflow. It includes loading a dataset in Python, performing exploratory data analysis (EDA), cleaning data, executing SQL queries on PostgreSQL/MySQL/SQL Server, building a Power BI dashboard, generating a report, and creating a presentation using Gamma.
+This project involves a comprehensive data analytics workflow. It includes loading a dataset in Python, performing exploratory data analysis (EDA), cleaning data, executing SQL queries on PostgreSQL Server, building a Power BI dashboard, generating a report, and creating a presentation using Gamma.
 
 Tools
 - Python: For data loading, EDA, and data cleaning.
